@@ -59,7 +59,9 @@ public class SpotifyLikeApp {
      * displays the menu for the app
      */
     public static void menu() {
-
+        
+        
+        
         System.out.println("---- SpotifyLikeApp ----");
         System.out.println("[H]ome");
         System.out.println("[S]earch by title");
